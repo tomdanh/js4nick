@@ -1,4 +1,4 @@
-// Would you be able to suggest a best way to edit this JS, where PLACEID variable would be dynamically pulled from the url from a campaign_id=12345 url string? //
+// Would you be able to suggest a best way to edit this JS, where &redir variable PLACEID  would be dynamically pulled from the url from a campaign_id=12345 url string? //
 
 var offer_url = "https://google.com/click.php?lp=1";
 var split_url = "https://google.com/click.php?key=oxv0nt5450qw39c03wro&redir=PLACEID";
